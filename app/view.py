@@ -11,7 +11,7 @@ from app import app
 
 
 # Stores the node's address.
-CONNECTED_NODE_ADDRESS = "http://127.0.0.1:8000"
+CONNECTED_NODE_ADDRESS = "http://127.0.0.1:5000"
 # Stores all the posts in the node.
 posts = []
 
